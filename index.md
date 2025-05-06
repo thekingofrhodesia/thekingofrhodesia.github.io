@@ -32,8 +32,9 @@ Pepe also oversees official meme distribution and propaganda across Instagram an
 
 ## Royal Gallery
 
+{% comment %}
 {% include gallery.html %}
-
+{% endcomment %}
 ---
 
 ## Royal Laws of Rhodesia
