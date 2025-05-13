@@ -5,7 +5,8 @@ permalink: /
 ---
 
 # 👑 Napoleon I of Rhodesia
-### The Dynastic Tater of the Savanna
+
+## The Dynastic Tater of the Savanna
 
 Welcome to the royal kingdom of Napoleon I of Rhodesia. The king who rose from the high school halls of Idaho, claiming the crown with awkward dance moves and a deep love for tater tots.
 
