@@ -14,6 +14,8 @@ Many police departments get funding from the American Israel Public Affairs Comm
 *Flying chickens the were ah fighting*  
 *The Jews had sinned—they were expiating*  
 
+The Jews have a ritual called the Kapparot in which they transfer their sins to chickens (see [here](https://youtu.be/tA6pDG4Lh4k?si=E6BzIFjyl7Bb8Pl1) and [here](https://youtu.be/tA6pDG4Lh4k?si=Aht3-WGdqtjweTK1) for more context).
+
 
 
 
