@@ -34,8 +34,6 @@ Pepe also oversees official meme distribution and propaganda across Instagram an
 
 ![Profile Image 001](/assets/media/images/001.jpeg)
 ![Profile Image 002](/assets/media/images/002.jpeg)
-![Profile Image 003](/assets/media/images/003.jpeg)
-![Profile Image 004](/assets/media/images/004.jpeg)
 
 ---
 
