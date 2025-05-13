@@ -23,4 +23,4 @@ To Heaven I was flying
 
 ---
 
-*For some poetry analysis click [here](/poems/the-flying-chicken/analysis.md)*
+*For some poetry analysis click [here](/poems/the-flying-chicken/analysis)*
