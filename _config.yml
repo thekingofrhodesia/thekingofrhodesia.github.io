@@ -5,3 +5,9 @@ baseurl: ""
 url: "https://kingofrhodesia.gitub.io"
 markdown: kramdown
 theme: null
+
+navigation:
+  - name: "Home"
+    link: "/"
+  - name: "Poems"
+    link: "/poetry/"
