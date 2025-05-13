@@ -20,3 +20,7 @@ The young girls, the chickens—I prayed on my knees
 
 They killed me there on the island  
 To Heaven I was flying  
+
+---
+
+*For some poetry analysis click [here](/poems/the-flying-chicken/analysis.md)*
