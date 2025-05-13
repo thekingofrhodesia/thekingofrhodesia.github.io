@@ -1,5 +1,6 @@
 ---
 title: "Poems"
+layout: default
 ---
 
 # The Poetry Section
