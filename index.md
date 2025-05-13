@@ -1,6 +1,5 @@
 ---
 title: "Napoleon I of Rhodesia"
-layout: default
 permalink: /
 ---
 
