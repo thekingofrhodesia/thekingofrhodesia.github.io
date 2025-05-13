@@ -2,6 +2,10 @@
 title: "Poems"
 ---
 
+# The Poetry Section
+
+The King of Rhodesia loves reading and writing poetry. If a poem was written by the King himself, it will mention that it is by him. If you wish to submit a poem for the king to read, please send him an email at [thekingofrhodesia@proton.me](mailto:thekingofrhodesia@proton.me)
+
 [Banking is Gay](/poems/banking-is-gay/)
 
 A coin extra on top  
