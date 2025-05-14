@@ -1,8 +1,8 @@
 ---
-title: "Oh You Say You Are a Jew"
+title: "Rhodesian Endeavor"
 ---
 
-# Oh You Say You Are a Jew
+# Rhodesian Endeavor
 
 Oh you say you are a Jew  
 But the thing is I already knew  
