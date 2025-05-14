@@ -12,3 +12,8 @@ Crashing out of the Vatican two
 After those two towers you blew  
 Oh they say you are so few  
 But your an autistic retarded crew  
+
+The Rhodesians shall prevail  
+Tomorrow 
+On a long adventerous tale  
+The Jewish conquest shall fail  
