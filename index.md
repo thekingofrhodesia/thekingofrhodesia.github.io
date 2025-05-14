@@ -9,7 +9,7 @@ permalink: /
 
 Welcome to the royal kingdom of Napoleon I of Rhodesia. The king who rose from the high school halls of Idaho, claiming the crown with awkward dance moves and a deep love for tater tots.
 
-Please read some poetry written by the King himself as well as some of those in his cabinet at [The Poetry Section](/poems/).
+Please read some poetry written by the King himself as well as some of those in his cabinet at [Poems Section](/poems/).
 
 ---
 
