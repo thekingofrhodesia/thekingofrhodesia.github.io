@@ -21,7 +21,7 @@ The braids and all
 The chosen few  
 ...  
 
-[Oh You Say You Are a Jew](/poems/oh-you-say-you-are-a-jew/)
+[Rhodesian Endeavor](/poems/rhodesian-endeavor/)
 
 Oh you say you are a jew  
 But the thing is I already knew  
