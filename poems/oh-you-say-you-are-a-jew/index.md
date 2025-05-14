@@ -14,6 +14,6 @@ Oh they say you are so few
 But your an autistic retarded crew  
 
 The Rhodesians shall prevail  
-Tomorrow 
+Tomorrow they set sail  
 On a long adventerous tale  
 The Jewish conquest shall fail  
