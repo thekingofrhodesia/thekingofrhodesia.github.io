@@ -1,4 +1,4 @@
 ---
 title: "Memes"
-layout: meme
+layout: memes
 ---
