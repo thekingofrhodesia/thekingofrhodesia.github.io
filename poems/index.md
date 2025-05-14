@@ -21,6 +21,13 @@ The braids and all
 The chosen few  
 ...  
 
+[Oh You Say You Are a Jew](/poems/oh-you-say-you-are-a-jew/)
+
+Oh you say you are a jew  
+But the thing is I already knew  
+I had seen that large nose on you  
+...  
+
 [Stinky Jews](/poems/stinky-jews/)
 
 Oh how I hate those stinky Jews,  
