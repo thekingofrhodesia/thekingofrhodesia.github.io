@@ -9,15 +9,46 @@
       height: 100%;
       background-color: #f5f5dc;
     }
+    header {
+      background-color: #006400;
+      color: white;
+      padding: 30px;
+      text-align: center;
+    }
+    nav {
+      background-color: #228B22;
+      text-align: center;
+      padding: 10px;
+    }
+    nav a {
+      color: white;
+      margin: 0 20px;
+      text-decoration: none;
+      font-weight: bold;
+    }
     video {
       width: 100%;
       height: 100%;
       object-fit: cover;
+      display: block;
     }
   </style>
 </head>
 <body>
-  <video autoplay controls>
+
+  <header>
+    <h1>👑 {{ site.title }}</h1>
+    <p>The Dynastic Tater of the Savanna</p>
+  </header>
+
+  <nav>
+    <a href="/">Home</a>
+    <a href="/memes/">Memes</a>
+    <a href="/poems/">Poems</a>
+    <a href="/theme-song/">Theme Song</a>
+  </nav>
+  
+  <video autoplay muted playsinline controls>
     <source src="/assets/media/videos/rhodesians-never-die.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
