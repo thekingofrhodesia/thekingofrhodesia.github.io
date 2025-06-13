@@ -39,9 +39,26 @@ Oh how I hate those stinky Jews,
 And how they make me pay my dues  
 ...  
 
+[The Betrothed](/poems/the-betrothed/)
+
+Open the old cigar-box, get me a Cuba stout,  
+For things are running crossways, and Maggie and I are out.  
+
+We quarrelled about Havanas—we fought o’er a good cheroot,  
+And I knew she is exacting, and she says I am a brute. 
+...  
+
 [The Flying Chicken](/poems/the-flying-chicken/)
 
 I went in to work as a cop, you see  
 My boss told the crew and me  
 We landed a trip to Israel for FREE  
+...  
+
+[The White Man's Burden](/poems/the-white-mans-burden/)
+
+Take up the White Man's burden—  
+    Send forth the best ye breed—  
+Go bind your sons to exile  
+  To serve your captives' need; 
 ...  
